@@ -1,5 +1,5 @@
 {
-    "title": "Business Casual",
+    "title": "🇦🇺PRONOIA🐙ENTERPRISES🇦🇺",
     "name": "startbootstrap-business-casual",
     "version": "7.0.2",
     "scripts": {
@@ -21,10 +21,10 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/business-casual",
+    "homepage": "https://github.com/Madkunt/startbootstrap-business-casual",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-business-casual/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/Madkunt/startbootstrap-business-casual/issues",
+        "email": ""
     },
     "license": "MIT",
     "author": "Start Bootstrap",
@@ -33,7 +33,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-business-casual.git"
+        "url": "https://github.com/Madkunt/startbootstrap-business-casual.git"
     },
     "dependencies": {
         "bootstrap": "5.0.2"
